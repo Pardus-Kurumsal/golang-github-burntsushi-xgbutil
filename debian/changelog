@@ -1,0 +1,29 @@
+golang-github-burntsushi-xgbutil (0.0~git20160330) xenial; urgency=medium
+
+  * fix build depends. 
+
+ -- lilongyu <leaeasy@gmail.com>  Mon, 25 Apr 2016 18:11:06 +0800
+
+golang-github-burntsushi-xgbutil (0.0~git20160329) xenial; urgency=medium
+
+  * Non-maintainer upload.
+
+ -- lilongyu <leaeasy@gmail.com>  Mon, 25 Apr 2016 12:04:29 +0800
+
+golang-github-burntsushi-xgbutil (0.0~git20151209) unstable; urgency=medium
+
+  * fix package name to golang-github-burntsushi-xgbutil 
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Mon, 25 Jan 2016 15:55:00 +0800
+
+golang-xgbutil (1+git20151209) unstable; urgency=medium
+
+  * update 20151209. 
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Wed, 09 Dec 2015 06:57:13 +0800
+
+golang-xgbutil (1~git20140610) trusty; urgency=low
+
+  * Initial release.
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Wed, 2 Sep 2014 16:42:43 +0800

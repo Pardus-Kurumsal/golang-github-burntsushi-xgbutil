@@ -1,0 +1,19 @@
+Source: golang-github-burntsushi-xgbutil
+Section: devel
+Priority: extra
+Maintainer: lilongyu <leaeasy@gmail.com>
+Build-Depends: debhelper (>= 9),dh-golang, golang-go, xcb-proto, golang-github-burntsushi-xgb-dev, 
+ golang-github-burntsushi-graphics-go-dev, golang-github-burntsushi-freetype-go-dev
+Standards-Version: 3.9.5
+Homepage: https://github.com/BurntSushi/xgb
+
+Package: golang-github-burntsushi-xgbutil-dev
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, xcb-proto, 
+ golang-github-burntsushi-xgb-dev, golang-github-burntsushi-graphics-go-dev, golang-github-burntsushi-freetype-go-dev
+Description: A utility library designed to work with the X Go Binding.
+ A utility library to make use of the X Go Binding easier.
+ Implements EWMH and ICCCM specs, key binding support, etc.
+ .
+ This package contains the source.
+
